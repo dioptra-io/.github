@@ -1,8 +1,10 @@
 # Welcome to the Dioptra GitHub Organization
 
-[Dioptra](https://dioptra.io/) is an Internet cartography research group based at Sorbonne University. Our main initiative is the [Sorbonne IP Route Survey (IPRS)](https://iprs.dioptra.io/).
+[Dioptra](https://dioptra.io/) is an Internet cartography research group based at Sorbonne University.
 
-We're dedicated to developing free, open-source software under liberal licenses. This organization hosts our primary development work. We welcome you to explore our public repositories and reach out if you're interested in contributing.
+Our main initiative is the [Sorbonne IP Route Survey (IPRS)](https://iprs.dioptra.io/). The software that we produce to advance it is free, open-source, and liberally-licensed.
+
+This organization hosts our primary development work. We welcome you to explore our public repositories and reach out if you're interested in contributing.
 
 ## Research Code & Publications
 
