@@ -22,3 +22,9 @@ Our paper *[Zeph & Iris map the internet: A resilient reinforcement learning app
 
 → [Zeph code (v1.0.0 release)](https://github.com/dioptra-io/zeph/releases/tag/v1.0.0)
 → [Iris code (v1.0.0 release)](https://github.com/dioptra-io/iris/releases/tag/v1.0.0)
+
+### EdgeNet (IEEE Access 2023)
+
+Our paper *[Multitenant Containers as a Service (CaaS) for Clouds and Edge Clouds](https://doi.org/10.1109/ACCESS.2023.3344486)*.
+
+→ [EdgeNet code (v1.0.0-alpha.5 release)](https://github.com/EdgeNet-project/edgenet-legacy-2024/releases/tag/v1.0.0-alpha.5)
