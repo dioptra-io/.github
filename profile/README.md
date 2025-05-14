@@ -6,7 +6,7 @@ Our main initiative is the [Sorbonne IP Route Survey (IPRS)](https://iprs.dioptr
 
 This organization hosts our primary development work. We welcome you to explore our public repositories and reach out if you're interested in contributing.
 
-## Research Code & Publications
+## Publication-Related Code
 
 Below you'll find code repositories associated with our published research:
 
@@ -22,3 +22,9 @@ Our paper *[Zeph & Iris map the internet: A resilient reinforcement learning app
 
 → [Zeph code (v1.0.0 release)](https://github.com/dioptra-io/zeph/releases/tag/v1.0.0)
 → [Iris code (v1.0.0 release)](https://github.com/dioptra-io/iris/releases/tag/v1.0.0)
+
+### EdgeNet (IEEE Access 2023)
+
+Our paper *[Multitenant Containers as a Service (CaaS) for Clouds and Edge Clouds](https://doi.org/10.1109/ACCESS.2023.3344486)* introduced a native multitenancy framework for Kubernetes where tenants share a cluster, offering a more efficient alternative to the one-tenant-per-cluster model.
+
+→ [EdgeNet code (v1.0.0-alpha.5 release)](https://github.com/EdgeNet-project/edgenet-legacy-2024/releases/tag/v1.0.0-alpha.5) (maintained in the EdgeNet-project organization)
