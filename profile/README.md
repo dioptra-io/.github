@@ -6,7 +6,7 @@ Our main initiative is the [Sorbonne IP Route Survey (IPRS)](https://iprs.dioptr
 
 This organization hosts our primary development work. We welcome you to explore our public repositories and reach out if you're interested in contributing.
 
-## Our Research Publication Code
+## Publication-Related Code
 
 Below you'll find code repositories associated with our published research:
 
