@@ -25,6 +25,6 @@ Our paper *[Zeph & Iris map the internet: A resilient reinforcement learning app
 
 ### EdgeNet (IEEE Access 2023)
 
-Our paper *[Multitenant Containers as a Service (CaaS) for Clouds and Edge Clouds](https://doi.org/10.1109/ACCESS.2023.3344486)*.
+Our paper *[Multitenant Containers as a Service (CaaS) for Clouds and Edge Clouds](https://doi.org/10.1109/ACCESS.2023.3344486)* introduced a native multitenancy framework for Kubernetes where tenants share a cluster, offering a more efficient alternative to the one-tenant-per-cluster model.
 
-→ [EdgeNet code (v1.0.0-alpha.5 release)](https://github.com/EdgeNet-project/edgenet-legacy-2024/releases/tag/v1.0.0-alpha.5)
+→ [EdgeNet code (v1.0.0-alpha.5 release)](https://github.com/EdgeNet-project/edgenet-legacy-2024/releases/tag/v1.0.0-alpha.5) (maintained in the EdgeNet-project organization)
