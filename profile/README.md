@@ -1,21 +1,24 @@
-# Welcome to Dioptra-io
+# Welcome to the Dioptra GitHub Organization
 
-The contents of this langing page will be provided soon.
-The sections below are placeholders.
+[Dioptra](https://dioptra.io/) is an Internet cartography research group based at Sorbonne University.
 
-## What We Do
+Our main initiative is the [Sorbonne IP Route Survey (IPRS)](https://iprs.dioptra.io/). The software that we produce to advance it is free, open-source, and liberally-licensed.
 
-## Projects
-- EdgeNet
-- Iris
+This organization hosts our primary development work. We welcome you to explore our public repositories and reach out if you're interested in contributing.
 
-## Get Involved
-We love collaborating with the community! Here's how you can get involved:
-- **Contribute**
-- **Report Issues**
-- **Join Discussions**
+## Research Code & Publications
 
-## Contact Us
-Have questions or want to chat? Reach out to us:
-- **Email**: 
-- **Website**:
+Below you'll find code repositories associated with our published research:
+
+### Diamond Miner (NSDI 2020)
+
+Our paper *[Diamond-Miner: Comprehensive Discovery of the Internet's Topology Diamonds](https://www.usenix.org/conference/nsdi20/presentation/vermeulen)* introduced novel techniques for mapping Internet topology.
+
+→ [Diamond-Miner code (NSDI 2020 release)](https://github.com/dioptra-io/diamond-miner/releases/tag/nsdi2020)
+
+### Zeph & Iris (CCR 2022)
+
+Our paper *[Zeph & Iris map the internet: A resilient reinforcement learning approach to distributed IP route tracing](https://doi.org/10.1145/3523230.3523232)* presented an advanced approach to Internet mapping using reinforcement learning.
+
+→ [Zeph code (v1.0.0 release)](https://github.com/dioptra-io/zeph/releases/tag/v1.0.0)
+→ [Iris code (v1.0.0 release)](https://github.com/dioptra-io/iris/releases/tag/v1.0.0)
