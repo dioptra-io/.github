@@ -16,7 +16,7 @@ Our paper *[Diamond-Miner: Comprehensive Discovery of the Internet's Topology Di
 
 → [Diamond-Miner code (NSDI 2020 release)](https://github.com/dioptra-io/diamond-miner/releases/tag/nsdi2020)
 
-### Zeph & Iris (IMC 2022)
+### Zeph & Iris (CCR 2022)
 
 Our paper *[Zeph & Iris map the internet: A resilient reinforcement learning approach to distributed IP route tracing](https://doi.org/10.1145/3523230.3523232)* presented an advanced approach to Internet mapping using reinforcement learning.
 
